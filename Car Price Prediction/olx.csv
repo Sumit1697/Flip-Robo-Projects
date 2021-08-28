@@ -1,0 +1,400 @@
+,Name,Model Name,Variant,Owner,Kilometer,Fuel,Transmission,Year of Manufacture,Price
+0,Maruti Suzuki,Alto,LXi,2,110000 ,Petrol,Manual,2007,130000
+1,Toyota,Glanza,V,1,11000 ,Petrol,Automatic,2019,759500
+2,Ford,Fiesta,2008-2011 1.4 SXi TDCi,1,85000 ,Diesel,Manual,2008,225000
+3,Hyundai,Santro Xing,GL,3,80000 ,Petrol,Automatic,2005,44000
+4,Volkswagen,Polo,2009-2013 Highline Breeze,2,80000 ,Petrol,Manual,2012,430000
+5,Hyundai,Grand i10,2013-2016 CRDi Magna,1,75000 ,Diesel,Manual,2015,300000
+6,Toyota,Etios,2014-2016 V,3,80000 ,Petrol,Manual,2015,250000
+7,Tata,Indica V2,2009-2011 DLS,3,90000 ,Diesel,Manual,2009,80000
+8,Honda,Amaze,1.2 SMT I VTEC,1,24 ,CNG & Hybrids,Manual,2016,285000
+9,Toyota,Innova,2.5 VX (Diesel) 8 Seater BS IV,1,123000 ,Diesel,Manual,2012,800000
+10,Mahindra,XUV500,W6 2WD,2,85000 ,Diesel,Manual,2015,850000
+11,Maruti Suzuki,Swift,ZXI,2,94000 ,Petrol,Manual,2006,200000
+12,Honda,Amaze,1.5 SMT I DTEC,2,110000 ,Diesel,Manual,2018,560000
+13,Honda,Amaze,2013-2016 VX i-DTEC,1,80000 ,Diesel,Manual,2014,299000
+14,Maruti Suzuki,Swift,2011-2014 VDI,1,56258 ,Diesel,Manual,2010,110000
+15,Ford,Figo,1.2P Sports Edition MT,2,90000 ,Petrol,Automatic,2011,160000
+16,Hyundai,Xcent,1.2 VTVT S,1,20000 ,Petrol,Manual,2016,390000
+17,Tata,Sumo Gold,EX BS IV,2,55000 ,Diesel,Manual,2013,250000
+18,Hyundai,i20,1.2 Spotz,2,30000 ,Petrol,Manual,2011,395000
+19,Tata,Tiago,3.0 4x2 Automatic,1,46462 ,Petrol,Automatic,2017,2650000
+20,Toyota,Fortuner,2.0 TDI,1,80000 ,Diesel,Automatic,2014,1350000
+21,Audi,A4,2006-2009 CRDi ABS,3,78000 ,Diesel,Manual,2007,180000
+22,Hyundai,Verna,3.0 Litre S Premium Luxury,2,105001 ,Diesel,Automatic,2012,1650000
+23,Jaguar,XF,Asta 1.4 CRDI,2,60000 ,Diesel,Manual,2017,640000
+24,Hyundai,Elite i20,Wagon R 1.0 LXi CNG,2,31400 ,Diesel,Manual,2020,585000
+25,Maruti Suzuki,Wagon R 1.0,85PS Diesel RxL,1,10000 ,CNG & Hybrids,Manual,2016,453000
+26,Renault,Duster,XV,1,72011 ,Diesel,Automatic,2012,350000
+27,Nissan,Sunny,VXI,2,147000 ,Diesel,Manual,2016,330000
+28,Maruti Suzuki,Alto 800,2.5 GX (Diesel) 7 Seater BS IV,1,14000 ,Petrol,Manual,2013,635000
+29,Toyota,Innova,LXI Optional-O,1,109000 ,Diesel,Manual,2018,520000
+30,Maruti Suzuki,Swift Dzire,1.6 SX Automatic,1,8170 ,Petrol,Automatic,2018,1125000
+31,Hyundai,Creta,Era,1,78000 ,Diesel,Manual,2010,185000
+32,Hyundai,i10,1.0 RXL,1,58000 ,Petrol,Manual,2017,245000
+33,Renault,KWID,VX i-VTEC,1,45000 ,Petrol,Manual,2015,470000
+34,Honda,Amaze,2014-2015 i DTEC S,1,54758 ,Petrol,Manual,2014,450000
+35,Honda,City,5 Seater AC,1,96000 ,Diesel,Manual,2013,375000
+36,Maruti Suzuki,Eeco,Era Plus,1,41260 ,Petrol,Manual,2012,149350
+37,Hyundai,i10,2014-2016 LS,1,69677 ,Petrol,Manual,2016,315000
+38,Hyundai,EON,LXI,1,21000 ,Petrol,Manual,2014,285000
+39,Renault,KWID,1.0 RXT Optional,1,81000 ,Diesel,Manual,2019,290000
+40,Chevrolet,Beat,1.5 TDCi Titanium,1,40000 ,Petrol,Manual,2020,425000
+41,Maruti Suzuki,Alto 800,1.5 Ti VCT MT Ambiente,1,27000 ,Petrol,Manual,2013,385000
+42,Renault,KWID,2.5 GX (Diesel) 7 Seater BS IV,1,67000 ,Diesel,Manual,2017,599000
+43,Ford,Ecosport,Magna 1.4 CRDI 6 Speed,1,45000 ,Petrol,Manual,2014,750000
+44,Ford,Ecosport,2006-2010 LX Minor,1,78000 ,Diesel,Manual,2014,345000
+45,Toyota,Innova,VDI,1,80000 ,Diesel,Manual,2006,140000
+46,Hyundai,i20,1.5 Diesel Titanium Plus,2,85000 ,Petrol,Manual,2011,375000
+47,Maruti Suzuki,Wagon R,ZDI BS IV,2,88000 ,Diesel,Manual,2013,575000
+48,Maruti Suzuki,Swift Dzire,Magna +,1,87000 ,Diesel,Manual,2016,575000
+49,Ford,Ecosport,1.2 Kappa SPORTZ,1,59000 ,Diesel,Manual,2016,275000
+50,Maruti Suzuki,Ciaz,2.0L Diesel Prestige,1,40000 ,Petrol,Manual,2010,145000
+51,Hyundai,EON,Plus AC BSIV PS,1,62000 ,Petrol,Automatic,2017,3200000
+52,Hyundai,i10,3.0 TFSIq Tiptronic,1,23000 ,Diesel,Manual,2017,665000
+53,Jaguar,XE,VDi Option,1,103000 ,Diesel,Automatic,2020,6100000
+54,Mahindra,Bolero,ZDI,1,13500 ,Petrol,Manual,2021,910000
+55,Audi,S5,1.5 Revotorq XZA Plus,1,9000 ,Petrol,Manual,2012,435000
+56,Maruti Suzuki,Vitara Brezza,2015-2016 1.6 CRDi SX,2,77000 ,Diesel,Automatic,2018,923000
+57,Maruti Suzuki,Swift Dzire,XZ,1,37000 ,Diesel,Manual,2015,575000
+58,Tata,Nexon,1.6 VTVT SX Plus Dual Tone,1,82000 ,Diesel,Manual,2019,340000
+59,Hyundai,Verna,2009-2014 EX,1,34000 ,Petrol,Manual,2016,925000
+60,Tata,Tiago,VXI BS IV,1,50151 ,Petrol,Manual,2014,600000
+61,Hyundai,Creta,Polo GTI,1,93055 ,Diesel,Manual,2011,275000
+62,Mahindra,Scorpio,VXI BS IV,1,19775 ,Petrol,Manual,2016,640000
+63,Maruti Suzuki,Wagon R,1.2 S MT,1,810000 ,Petrol,Manual,2014,310000
+64,Volkswagen,Polo GTI,2016-2017 Sportz,1,77000 ,Petrol,Manual,2012,250000
+65,Maruti Suzuki,Wagon R,530d Highline,2,35354 ,Petrol,Automatic,2017,575000
+66,Honda,Brio,Magna 1.2 iTech SE,1,58962 ,Petrol,Automatic,2013,1750000
+67,Hyundai,Grand i10,2012-2015 Diesel ZXI,2,79599 ,Diesel,Manual,2011,200000
+68,BMW,5 Series,1.4 E Plus Diesel,3,66000 ,CNG & Hybrids,Manual,2013,281900
+69,Hyundai,i10,2012-2015 CRDi SX,1,57354 ,Diesel,Manual,2018,840000
+70,Ford,Figo,VXi (ABS) BS IV,1,39000 ,Diesel,Manual,2013,599000
+71,Hyundai,Creta,Others,3,68966 ,Diesel,Manual,2011,240000
+72,Hyundai,Elantra,SHVS VDI Limited Edition,2,37000 ,Petrol,Manual,2010,300000
+73,Maruti Suzuki,Ritz,RXZ,1,120000 ,Diesel,Manual,2017,800000
+74,Chevrolet,Tavera,110 PS RxL ADVENTURE,1,57924 ,Diesel,Manual,2021,758500
+75,Maruti Suzuki,Ertiga,1.3 TCDi LT 7,1,2500 ,Petrol,Manual,2014,450000
+76,Renault,Triber,2003-2013 2.5L 4X2 MT,2,111263 ,Diesel,Manual,2013,275000
+77,Renault,Duster,Titanium,2,105293 ,Diesel,Manual,2011,540000
+78,Chevrolet,Enjoy,530d,2,170000 ,Diesel,Manual,2011,260000
+79,Ford,Endeavour,1.8 S MT Inspire,2,99079 ,Diesel,Automatic,2008,725000
+80,Ford,Figo,2000-2003 1.5 EXI,1,118000 ,Diesel,Manual,2009,225000
+81,BMW,5 Series,2.5 V 7 STR,2,70000 ,Petrol,Manual,2002,170000
+82,Honda,Civic,AT,3,85000 ,Petrol,Manual,2014,950000
+83,Honda,City,E i-DTEC,1,137000 ,Diesel,Automatic,2006,65000
+84,Toyota,Innova,2013-2014 V,4,100000 ,Petrol,Manual,2014,450000
+85,Hyundai,Santro,350 D,1,81860 ,Diesel,Manual,2013,375000
+86,Honda,Amaze,ZXI Plus Petrol,2,71073 ,Petrol,Automatic,2016,6150000
+87,Toyota,Etios,i-VTEC V,1,44000 ,Diesel,Manual,2017,925001
+88,Mercedes-Benz,GLS,1.5 TDI AT Ambition,1,22001 ,Petrol,Manual,2015,640000
+89,Audi,A4,520d,1,65169 ,Petrol,Automatic,2020,1350000
+90,Maruti Suzuki,Ertiga,2010-2012 Diesel ZXI,1,15000 ,Diesel,Automatic,2017,3500000
+91,Honda,City,1.4 Zeta,1,27585 ,Diesel,Manual,2010,260000
+92,Skoda,Rapid,Magna 1.2,1,65303 ,Diesel,Manual,2019,6000000
+93,BMW,5 Series,1.6 SX Plus,1,26000 ,Petrol,Manual,2018,588000
+94,Ford,Figo,1.3 Delta,1,33011 ,Petrol,Manual,2017,799999
+95,Maruti Suzuki,Ciaz,MM 540,1,42000 ,Petrol,Manual,2018,611000
+96,Hyundai,Elite i20,VDI,1,30000 ,Diesel,Manual,1991,250000
+97,Hyundai,Creta,Quadrajet LX,2,50000 ,Diesel,Manual,2016,460000
+98,Maruti Suzuki,Baleno,XT,1,74000 ,Diesel,Manual,2014,200000
+99,Mahindra,Jeep,LXI,2,92000 ,Diesel,Manual,2015,140000
+100,Maruti Suzuki,Swift,2.4 Automatic,1,80000 ,Petrol,Manual,2014,260000
+101,Tata,Indica Vista,2013-2015 GT TDI,1,47000 ,Petrol,Automatic,2006,349000
+102,Tata,Nano GenX,1997-2006 1.3 EXI,2,89000 ,Petrol,Manual,2014,395000
+103,Maruti Suzuki,Alto 800,2009-2011 Std BSIII,2,87300 ,Diesel,Manual,2001,150000
+104,Honda,CR-V,Era,3,124000 ,Petrol,Manual,2011,40000
+105,Volkswagen,Polo,2005-2010 LX BSIII,1,5200 ,Petrol,Manual,2012,55000
+106,Honda,City,LX,1,59099 ,Petrol,Manual,2009,135000
+107,Tata,Nano,2011-2014 1.6 SX VTVT,2,75000 ,Petrol,Manual,2002,105000
+108,Hyundai,i10,2012-2016 LX,2,194499 ,CNG & Hybrids,Manual,2011,365000
+109,Royal Enfield,Classic,2016-2017 Sportz,2,78200 ,CNG & Hybrids,Manual,2005,95000
+110,Maruti Suzuki,Alto,1.2 Vxi BSIV,1,70000 ,Petrol,Manual,2017,500000
+111,Maruti Suzuki,Zen,Sportz,1,27000 ,Petrol,Manual,2014,410000
+112,Hyundai,Verna,LX,1,64000 ,Petrol,Automatic,2007,172000
+113,Maruti Suzuki,Alto 800,AMT VXI Option,3,98000 ,Petrol,Manual,2002,75000
+114,Hyundai,Grand i10,Plus 1.6 Duratec Petrol,2,90000 ,Petrol,Automatic,2019,490000
+115,Maruti Suzuki,Swift Dzire,2006-2010 LXI Minor,1,12000 ,Petrol,Manual,2007,155555
+116,Hyundai,Santro,LXI,3,60469 ,Petrol,Manual,2008,189000
+117,Maruti Suzuki,Zen,AC BSIII,1,44930 ,Petrol,Manual,2011,175000
+118,Maruti Suzuki,Celerio X,VXi,2,69000 ,Petrol,Manual,2005,85000
+119,Ford,Fusion,GLS,1,18000 ,Petrol,Manual,2010,190000
+120,Hyundai,i20,1.2 V i VTEC,4,60000 ,Petrol,Manual,2011,175000
+121,Maruti Suzuki,Wagon R,2013-2016 Sportz,1,53000 ,Petrol,Manual,2012,275000
+122,Maruti Suzuki,Alto K10,S4,1,57000 ,Petrol,Manual,2015,400000
+123,Maruti Suzuki,800,VXI 1.2,1,570000 ,Petrol,Manual,2014,660000
+124,Maruti Suzuki,Ritz,L&K 1.8 TSI AT,2,55000 ,Petrol,Manual,2009,250000
+125,Hyundai,Santro Xing,LXI,1,75000 ,Diesel,Automatic,2016,1650000
+126,Honda,Jazz,2005-2010 LX BSIII,2,45000 ,Petrol,Automatic,2004,70000
+127,Hyundai,Grand i10,VDI BS IV,1,95000 ,Petrol,Manual,2006,90000
+128,Mahindra,Scorpio,2010-2012 1.2 Magna,2,15000 ,Petrol,Manual,2011,75000
+129,Maruti Suzuki,Swift Dzire,1.2 Zeta,1,100000 ,Petrol,Manual,2012,400000
+130,Skoda,Superb,2015-2017 DDiS 320 Delta,1,53500 ,Diesel,Manual,2021,665000
+131,Maruti Suzuki,Zen,2014-2017 ZXi Plus,1,72000 ,Petrol,Manual,2017,550000
+132,Maruti Suzuki,Alto,GLE,1,9450 ,Petrol,Manual,2016,661100
+133,Maruti Suzuki,Swift,1.6 LT Royale,2,75000 ,Diesel,Manual,2007,175000
+134,Hyundai,i20,1.6 Highline,1,54000 ,Diesel,Manual,2006,180000
+135,Maruti Suzuki,Ignis,VXi,1,25132 ,Petrol,Manual,2011,285000
+136,Maruti Suzuki,S Cross,2006-2010 VXI Minor,1,88000 ,CNG & Hybrids,Manual,2010,275000
+137,Maruti Suzuki,Swift Dzire Tour,Magna,2,80000 ,Petrol,Manual,2007,120000
+138,Maruti Suzuki,Ciaz,LXI,3,76854 ,Petrol,Manual,2008,240000
+139,Hyundai,Accent,2009-2011 Magna,2,38000 ,Petrol,Manual,2011,275000
+140,Chevrolet,Optra,ZXi (Opt),2,39000 ,Petrol,Manual,2011,299000
+141,Volkswagen,Vento,2011-2014 Star VDI,3,70000 ,Petrol,Manual,2007,140000
+142,Maruti Suzuki,Ritz,VXI,1,40000 ,Petrol,Manual,2013,445000
+143,Maruti Suzuki,Wagon R,1.2 Kappa SPORTZ,2,54000 ,Petrol,Manual,2015,365000
+144,Hyundai,i10,2.5 V 7 STR,2,80000 ,Petrol,Automatic,2013,325000
+145,Maruti Suzuki,Alto K10,VDi Option,1,99000 ,Diesel,Manual,2008,299000
+146,Hyundai,i20,2009-2014 M2DI,1,50000 ,Petrol,Manual,2018,774000
+147,Maruti Suzuki,SX4,1.5 TDI Highline,2,75000 ,Petrol,Manual,2011,490000
+148,Maruti Suzuki,Swift,VDI,1,145000 ,Diesel,Manual,2011,335000
+149,Maruti Suzuki,Wagon R,XM,1,60000 ,Diesel,Manual,2019,840000
+150,Hyundai,i10,W8 2WD,1,154000 ,Diesel,Manual,2017,841200
+151,Toyota,Innova,2011-2014 1.6 SX VTVT (O),1,71000 ,Diesel,Manual,2015,925000
+152,Maruti Suzuki,Vitara Brezza,MPI CARGO BSIV,1,69000 ,Diesel,Manual,2014,551000
+153,Mahindra,Scorpio,2010-2015 1.2 TDI Ambition,2,50 ,Diesel,Manual,2008,125000
+154,Volkswagen,Vento,Magna,1,83240 ,Diesel,Manual,2013,225000
+155,Maruti Suzuki,Swift Dzire,i-VTEC V,2,70000 ,Diesel,Manual,2014,275000
+156,Tata,Hexa,2005-2010 LXi BSIII,2,80000 ,Petrol,Manual,2018,885000
+157,Mahindra,XUV500,S 1.2 (O),3,82000 ,Diesel,Manual,2007,130000
+158,Hyundai,Verna,EX,2,67000 ,CNG & Hybrids,Manual,2018,505000
+159,Maruti Suzuki,Omni,1.2 SV i VTEC,1,38100 ,Petrol,Manual,2016,651000
+160,Skoda,Fabia,2014-2017 VDi Plus,2,55000 ,LPG,Manual,2011,270000
+161,Hyundai,i10,2014-2016 VD Limited Edition,1,32000 ,Diesel,Manual,2015,545000
+162,Honda,City,1.5 Diesel Titanium Plus,1,102000 ,Diesel,Manual,2016,682000
+163,Maruti Suzuki,Alto,1.99 S10,1,85000 ,Petrol,Manual,2016,735000
+164,Hyundai,Xcent,A200 D Sport Edition,1,63000 ,Diesel,Manual,2016,950000
+165,Tata,Safari Storme,VXI,1,97000 ,Diesel,Automatic,2016,1840000
+166,Honda,Jazz,1.8 V MT,1,70000 ,Diesel,Manual,2012,445000
+167,Maruti Suzuki,Ciaz,Diesel Asta,2,70000 ,Diesel,Manual,2010,525000
+168,Toyota,Etios Liva,VDI,1,38900 ,Diesel,Manual,2011,285000
+169,Ford,Ecosport,ZXI Optional AMT,1,53000 ,Petrol,Manual,2014,449000
+170,Mahindra,Scorpio,2.0 Longitude,1,71000 ,Petrol,Automatic,2018,490000
+171,Mercedes-Benz,A Class,1.6 Highline,3,99000 ,Diesel,Manual,2017,1450000
+172,Maruti Suzuki,Ertiga,eCS LX CR4 BS-IV,1,60000 ,Diesel,Manual,2013,525000
+173,Honda,Civic,2.5 VX (Diesel) 7 Seater BS IV,1,18500 ,Petrol,Manual,2010,210000
+174,Tata,Tiago,1.5 TDI CR Elegance Plus,1,32000 ,Diesel,Manual,2014,925000
+175,Hyundai,i20,2011-2014 RS VDI,1,59000 ,Diesel,Manual,2015,550000
+176,Maruti Suzuki,Ertiga,Others,2,75000 ,Diesel,Manual,2012,375000
+177,Maruti Suzuki,Celerio,Others,2,170000 ,Diesel,Manual,2011,499000
+178,Jeep,Compass,1.2 MPI Highline,1,72000 ,Diesel,Manual,2012,115000
+179,Volkswagen,Vento,VTVT 1.6 SX,2,80000 ,Diesel,Manual,2014,415000
+180,Tata,Indigo Ecs,Titanium 1.5 TDCi (Opt),1,140000 ,Diesel,Manual,2014,525000
+181,Toyota,Innova,1.5 TDI Highline,2,24000 ,Petrol,Manual,2017,669999
+182,Skoda,Rapid,2013-2016 AT Asta,1,62000 ,Petrol,Manual,2012,235000
+183,Maruti Suzuki,Swift,1.5 VX i DTEC,1,48000 ,Petrol,Manual,2016,480000
+184,Mahindra,Scorpio,2009-2011 LXI,1,66000 ,Diesel,Automatic,2015,475000
+185,Tata,Nano,Sport 4X4 Dual Tone,1,51000 ,Petrol,Manual,2016,700000
+186,Volkswagen,Polo,C 220 CDI Elegance AT,1,108000 ,Diesel,Manual,2010,260000
+187,Hyundai,Verna,S Diesel,2,53200 ,Petrol,Manual,2010,760000
+188,Ford,Ecosport,2.5 G (Diesel) 8 - Seater,1,131200 ,Diesel,Automatic,2010,750000
+189,Hyundai,i20,Sportz 1.2,1,58000 ,Petrol,Manual,2015,466000
+190,Volkswagen,Polo,2013-2016 VX,2,161000 ,Diesel,Manual,2016,935000
+191,Hyundai,Grand i10,2005-2010 LX BSIII,1,98000 ,Diesel,Manual,2015,475000
+192,Honda,Jazz,VDI,1,75000 ,Diesel,Manual,2016,260000
+193,Maruti Suzuki,Ritz,2012-2014 Sportz 1.4 CRDi,1,73000 ,Diesel,Automatic,2007,135000
+194,Mitsubishi,Pajero,2011-2014 VDI,1,68211 ,Petrol,Manual,2014,370000
+195,Mercedes-Benz,New C-Class,VDI,2,31000 ,Petrol,Manual,2012,320000
+196,Honda,Jazz,2.2 MT 2WD,1,190000 ,Petrol,Manual,2013,450000
+197,Toyota,Innova,CNG LXI,2,85000 ,Diesel,Automatic,2010,285000
+198,Hyundai,Elite i20,S 350 CDI,2,201500 ,Diesel,Manual,2009,235000
+199,Honda,Brio,VXI CNG,2,67000 ,Diesel,Manual,2015,261000
+200,Maruti Suzuki,Alto,XL Petrol,3,117000 ,Petrol,Automatic,2014,3950000
+201,Maruti Suzuki,Swift Dzire,110PS Diesel RxL,2,85000 ,Diesel,Manual,2015,675000
+202,Hyundai,i20,Quadrajet 1.3 XM,1,53000 ,CNG & Hybrids,Manual,2017,420000
+203,Maruti Suzuki,Swift,Vxi,1,77000 ,Diesel,Manual,2013,390000
+204,Maruti Suzuki,Swift,5 Seater,2,79115 ,CNG & Hybrids,Automatic,2017,300000
+205,Chevrolet,Captiva,2011-2013 E,1,17500 ,Petrol,Manual,2005,62500
+206,Maruti Suzuki,Alto 800,1.5 SMT I DTEC,1,72000 ,Diesel,Manual,2015,280000
+207,Mercedes-Benz,S-Class,LX - BS III,1,85000 ,Diesel,Manual,2012,299999
+208,Maruti Suzuki,Ertiga,ZDi Plus,2,93400 ,Petrol,Manual,2015,345000
+209,Nissan,Micra Active,VXI,1,47000 ,Petrol,Manual,2003,85000
+210,Renault,Duster,CRDe,1,42000 ,Petrol,Manual,2016,632000
+211,Honda,City,VXI,1,51000 ,Diesel,Manual,2014,280000
+212,Tata,Zest,1.6 SX Automatic,3,150000 ,Diesel,Manual,2015,265000
+213,Maruti Suzuki,Esteem,85PS RxZ,2,84111 ,Diesel,Automatic,2020,430000
+214,Maruti Suzuki,Omni,W8 2WD,2,56000 ,Petrol,Automatic,2017,1225000
+215,Honda,City,VXI Plus,2,30000 ,Diesel,Manual,2016,549000
+216,Honda,Amaze,AT W9 2WD,3,74125 ,Petrol,Manual,2012,485000
+217,Maruti Suzuki,Swift Dzire,W10 2WD,1,21000 ,CNG & Hybrids,Manual,2018,385000
+218,Maruti Suzuki,Zen,2009-2011 E4,1,6800 ,Diesel,Automatic,2019,1800000
+219,Maruti Suzuki,Vitara Brezza,2012-2015 85PS Diesel RxL,1,47448 ,Diesel,Manual,2016,1290000
+220,Maruti Suzuki,Wagon R,AC BSIII,2,86000 ,Diesel,Manual,2010,240000
+221,Mahindra,Thar,S JCW Inspired,1,35000 ,Petrol,Manual,2015,500000
+222,Renault,Pulse,LXI,2,70000 ,Diesel,Manual,2009,145000
+223,Hyundai,Xcent,2005-2010 STD,1,50000 ,Diesel,Automatic,2019,4000000
+224,Chevrolet,Beat,Others,1,22146 ,Diesel,Manual,2017,633000
+225,Maruti Suzuki,S-Presso,W8 2WD,2,100000 ,Diesel,Manual,2005,72000
+226,Hyundai,Creta,SE,2,82000 ,Petrol,Manual,2009,350000
+227,Renault,Lodgy,1.2 Asta,2,61000 ,Petrol,Manual,2014,775000
+228,Mahindra,XUV500,2011-2014 VDI,1,17000 ,CNG & Hybrids,Manual,2002,89999
+229,Maruti Suzuki,Wagon R,2.2 Titanium AT 4X2,1,74111 ,LPG,Manual,2009,385000
+230,Hyundai,i20,2010-2013 Diesel,2,175000 ,Diesel,Manual,2015,525000
+231,Maruti Suzuki,Alto,Others,4,112668 ,Diesel,Automatic,2016,2350000
+232,Mahindra,XUV500,5 STR BS-III,1,82000 ,Diesel,Manual,2011,125000
+233,Mahindra,XUV500,XO,2,58000 ,Petrol,Manual,2012,32000
+234,Mahindra,Xylo,Others,1,27000 ,Diesel,Manual,2008,175000
+235,Renault,Duster,DI LX 7/9 Str BSII,1,67000 ,Diesel,Manual,2003,128000
+236,Maruti Suzuki,800,2010-2013 IPL II Petrol Highline AT,1,117000 ,Diesel,Manual,1996,480000
+237,Mini,Cooper Countryman,2.5 V 7 STR,2,120000 ,Petrol,Manual,2010,250000
+238,Maruti Suzuki,Ertiga,1.2 Zeta,2,28000 ,Petrol,Automatic,2011,290000
+239,Maruti Suzuki,Alto,2001-2010 SLE BSII,4,79000 ,Petrol,Manual,2011,645000
+240,Force Motors,Others,1.2 MPI Trendline,4+,135000 ,Petrol,Manual,2011,70000
+241,Mahindra,XUV500,110PS Diesel RxZ AWD,3,4876 ,Diesel,Manual,2015,448000
+242,Tata,Sumo,W4,4+,213634 ,Petrol,Manual,2011,300000
+243,Hyundai,i20,Others,1,0 ,Diesel,Manual,2021,595000
+244,Maruti Suzuki,Swift,1.2 MPI Trendline,1,112000 ,Petrol,Manual,2013,550000
+245,Datsun,Redi Go,2014-2017 ZDi Plus SHVS,2,68000 ,Petrol,Manual,2019,735000
+246,Ford,Endeavour,1.2 Kappa Magna,1,60121 ,Diesel,Automatic,2018,3275000
+247,Chevrolet,Beat,1.8 VL CVT,3,100000 ,Petrol,Manual,2012,220000
+248,Bajaj,Others,Punto Emotion Pack 1.3,1,3000 ,Diesel,Manual,2016,574000
+249,Maruti Suzuki,Omni,DICOR 2.2 EX 4x2 BS IV,3,192000 ,Petrol,Manual,2009,185000
+250,Hyundai,Santro Xing,2010-2012 Petrol EXI,1,25000 ,Diesel,Automatic,2008,321000
+251,Jeep,Others,E 220 d,2,39000 ,Diesel,Manual,2011,235000
+252,Tata,Sumo Victa,W8 4WD,1,75000 ,Diesel,Manual,2016,635000
+253,Volkswagen,Vento,ZXi 1.6,2,74000 ,Petrol,Manual,2010,235000
+254,Toyota,Innova,Quadrajet 1.3 75PS XMS,1,75000 ,Petrol,Automatic,2012,999999
+255,Tata,Nano,DI 2WD,2,90857 ,Diesel,Manual,2014,474000
+256,Maruti Suzuki,Baleno,Magna Plus,2,108574 ,Diesel,Manual,2010,169000
+257,Mahindra,Bolero,2012-2015 85PS Diesel RxL,1,65000 ,Petrol,Automatic,2018,451000
+258,Maruti Suzuki,Wagon R,S 500 L,1,60000 ,Diesel,Manual,2018,550000
+259,Mahindra,Bolero,LDi,2,82000 ,Diesel,Manual,2020,625000
+260,Volkswagen,Polo,S CVT Petrol,1,59825 ,Diesel,Manual,2014,390000
+261,Renault,Duster,VXI AMT,2,99000 ,Diesel,Automatic,2010,1850000
+262,Mahindra,XUV300,2013-2017 Elegance 2.0 TDI AT,1,77000 ,Diesel,Manual,2012,210000
+263,Ford,Figo,2011-2016 4x2 AT,2,8000 ,Petrol,Automatic,2020,736100
+264,Jaguar,XF,2010-2013 Diesel,1,5300 ,Diesel,Automatic,2014,325000
+265,Volkswagen,Polo,VXI,1,88000 ,Petrol,Automatic,2014,950000
+266,Maruti Suzuki,Ciaz,LX Dicor,1,43000 ,Diesel,Automatic,2012,1250000
+267,Hyundai,i10,2000-2010 Ambiente 1.9 TDI MT,2,109000 ,Petrol,Manual,2012,155000
+268,Toyota,Corolla Altis,2002-2013 SLE BS IV,1,9370 ,Petrol,Manual,2009,165000
+269,Fiat,Punto,i-VTEC CVT VX,1,72000 ,Diesel,Manual,2009,75000
+270,Tata,Safari,Trend Plus TDCi,2,65000 ,Diesel,Manual,2006,120000
+271,Ford,Figo,T,2,116000 ,Diesel,Manual,2013,540000
+272,Mercedes-Benz,E-Class,VXI CNG,1,68000 ,CNG & Hybrids,Automatic,2018,1055000
+273,Mahindra,XUV500,VXI,2,78000 ,Diesel,Manual,2019,640000
+274,Ford,Fiesta,S6 Plus 7 Seater,2,95000 ,Diesel,Manual,2019,375000
+275,Tata,Zest,Others,3,96500 ,Diesel,Manual,2018,749999
+276,Mahindra,Thar,Alpha 1.6,1,60000 ,Petrol,Manual,2015,390000
+277,Hyundai,Elite i20,2010-2013 Petrol Highline AT,1,28000 ,Diesel,Manual,2015,575000
+278,Renault,Duster,1.5 V,1,70000 ,Petrol,Manual,2015,825000
+279,Mercedes-Benz,S-Class,S i-VTEC,1,18000 ,CNG & Hybrids,Manual,2020,650000
+280,Maruti Suzuki,Ritz,2004-2011 2.5 G4 Diesel 7-seater,1,62000 ,Petrol,Manual,2015,640000
+281,Honda,Amaze,LXI,1,41000 ,Diesel,Automatic,2011,250000
+282,Maruti Suzuki,Celerio,LXi,1,26000 ,Diesel,Manual,2011,275000
+283,Skoda,Octavia,S,1,78000 ,Petrol,Manual,2020,680000
+284,Toyota,Fortuner,S,1,34000 ,Diesel,Manual,2011,649000
+285,Chevrolet,Beat,AMT VXI Optional,1,71975 ,Petrol,Manual,2017,575000
+286,Maruti Suzuki,Swift,2006-2010 CRDi,1,80000 ,Petrol,Manual,2011,190000
+287,Tata,Indigo,2011-2014 1.6 SX CRDi (O),1,90555 ,Petrol,Automatic,2014,2410500
+288,Skoda,Octavia,VDI,1,17500 ,Diesel,Manual,2010,440000
+289,Mahindra,Scorpio,EX,1,120924 ,Petrol,Automatic,2021,20000
+290,Honda,City,W8 2WD,1,19000 ,Petrol,Automatic,2014,2424500
+291,Ford,Freestyle,AMT VXI,2,66000 ,Petrol,Automatic,2017,495000
+292,Datsun,GO Plus,Carlino,1,11950 ,Diesel,Manual,2007,189000
+293,Maruti Suzuki,Ertiga,Laura 1.9 TDI AT Ambiente,3,180000 ,Diesel,Manual,2013,375000
+294,Maruti Suzuki,Swift Dzire,3.0 4x4 Manual,1,2000 ,Petrol,Manual,2017,580000
+295,Nissan,Terrano,EVO 1.3 Emotion,1,11800 ,Petrol,Manual,2014,675000
+296,Mahindra,Scorpio,i-VTEC VX,1,15210 ,Diesel,Manual,2012,775000
+297,Hyundai,Others,2009-2013 IPL II 1.2 Petrol Highline,3,110000 ,Diesel,Automatic,2018,675000
+298,Maruti Suzuki,S-Cross,D4 BS III,2,55000 ,Diesel,Manual,2020,60000
+299,Volkswagen,Vento,LX,2,56982 ,Diesel,Automatic,2008,199999
+300,Toyota,Etios,1.2 Vxi BSIV,1,87150 ,Diesel,Manual,2010,1100000
+301,Honda,Amaze,Others,1,89784 ,Petrol,Manual,2009,185000
+302,Toyota,Innova,S3,1,32000 ,Diesel,Manual,2017,825000
+303,Maruti Suzuki,Swift Dzire,Petrol RXS,2,500 ,Diesel,Manual,2010,350000
+304,Maruti Suzuki,Alto,LX,2,113000 ,Diesel,Manual,2016,450000
+305,Mini,Cooper Convertible,1.6 CRDi SX,4,130000 ,Diesel,Manual,2005,72000
+306,Other Brands,Others,2.0 TDI Quattro Premium Plus,2,140000 ,Petrol,Manual,2014,475000
+307,Other Brands,Others,Others,1,35000 ,Petrol,Automatic,2010,130000
+308,Hyundai,Verna,Others,3,68000 ,Diesel,Automatic,2018,910000
+309,Mini,Cooper Convertible,2004-2010 1.3 VXi,2,158000 ,Diesel,Automatic,2018,899000
+310,Maruti Suzuki,Wagon R Stingray,Grand Vitara Brezza ZDI Plus,1,82500 ,Petrol,Manual,2003,79000
+311,Hyundai,Verna,2.5 G (Diesel) 8 Seater,2,54000 ,Petrol,Manual,2017,860000
+312,Hyundai,Verna,1.6 Duratec CLXI,2,34000 ,Diesel,Automatic,2017,2600000
+313,Maruti Suzuki,Swift Dzire,1.2 Kappa Sportz Option,1,70000 ,Petrol,Manual,1992,44000
+314,Tata,Safari Storme,2014-2016 GD,1,24000 ,Petrol,Manual,2016,50000
+315,Mahindra,XUV500,1999-2007 LXI,1,65000 ,Diesel,Manual,2006,140000
+316,Maruti Suzuki,Swift,W8 Option,1,67000 ,Petrol,Manual,2016,800000
+317,Hyundai,Carlino,AC BSII,1,40000 ,Petrol,Manual,2010,680000
+318,Skoda,Laura,VXi,1,56000 ,Diesel,Manual,2011,210000
+319,Toyota,Fortuner,2.5 GX 7 STR BS-III,1,100000 ,Petrol,Manual,2017,440000
+320,Fiat,Grande Punto,S11,2,18 ,Diesel,Manual,2016,535000
+321,Honda,City,E 220 d,1,65000 ,Diesel,Automatic,2004,65000
+322,Volkswagen,Polo,1.4 Asta,3,248550 ,Petrol,Manual,2020,1050000
+323,Mahindra,Xylo,Others,1,223500 ,Petrol,Manual,2003,55000
+324,Tata,Sumo Victa,Others,1,47000 ,Diesel,Manual,2014,350000
+325,Maruti Suzuki,Swift Dzire,LX,2,256000 ,CNG & Hybrids,Manual,2015,728000
+326,Chevrolet,Aveo,S,3,94252 ,Petrol,Manual,2019,1675000
+327,Mahindra,Scorpio,Magna,1,12000 ,Petrol,Automatic,2011,1150000
+328,Renault,Duster,Diesel Asta,2,100000 ,Petrol,Manual,2012,275000
+329,Maruti Suzuki,Alto,2011-2016 4x4 MT,1,39000 ,Diesel,Manual,2008,55000
+330,Hyundai,Creta,Alpha,2,90000 ,Diesel,Manual,2012,150000
+331,Audi,Q3,1.6 CRDi SX,1,38000 ,Diesel,Manual,2001,82000
+332,Maruti Suzuki,800,1.5 Diesel Titanium,2,95000 ,Diesel,Manual,2020,750000
+333,Others,Others,Fluidic 1.6 CRDi SX Opt,1,46250 ,Diesel,Manual,2012,55000
+334,Tata,Swift,2013-2016 Asta,1,72387 ,Diesel,Manual,2018,760000
+335,Maruti Suzuki,Grand Vitara,2.5 G (Diesel) 7-Seater,1,103400 ,Petrol,Manual,2012,1150000
+336,Maruti Suzuki,Innova,7 Seater Standard,1,55100 ,Petrol,Manual,2018,550000
+337,Toyota,Fiesta Classic,525d Luxury Line,1,15 ,Petrol,Manual,2016,650000
+338,Ford,Grand i10,1.2 Base,1,53699 ,Diesel,Manual,2013,445000
+339,Hyundai,Etios,2011-2014 Star VDI,1,25000 ,Diesel,Automatic,2013,550000
+340,Toyota,Baleno,1.5 Diesel Titanium,1,99000 ,Petrol,Manual,2015,495000
+341,Maruti Suzuki,XUV300,4X4 AT,1,45000 ,Diesel,Manual,2014,765000
+342,Mahindra,800,Others,1,91488 ,Diesel,Manual,2019,450000
+343,Maruti Suzuki,Ritz,2014-2017 200 CDI SPORT,1,71000 ,Diesel,Automatic,2011,1255000
+344,Maruti Suzuki,Innova,VXi,1,74000 ,Petrol,Manual,2015,280000
+345,Toyota,Scorpio,ZDi Plus,1,22600 ,Diesel,Manual,2011,300000
+346,Mahindra,E-Class,1.5D Trend MT,1,155000 ,Petrol,Manual,2014,475000
+347,Mercedes-Benz,i20,2013-2016 EX i-Vtech,1,41528 ,Diesel,Automatic,2011,440000
+348,Hyundai,Indica E V2,Delta,2,66528 ,Petrol,Automatic,2021,2270000
+349,Tata,Vista,Others,2,67000 ,Diesel,Automatic,2017,2150000
+350,Tata,Zen,LXI,2,95000 ,Diesel,Manual,2011,275000
+351,Maruti Suzuki,Venue,2005-2010 LXi BSIII,1,88000 ,Diesel,Manual,2017,865000
+352,Hyundai,Lancer,E MPI STD BSIV,4,110000 ,Diesel,Manual,2016,370000
+353,Mitsubishi,i10,2011-2014 RS VXI,1,8000 ,Diesel,Manual,2010,195000
+354,Hyundai,i20,1.0 Vxi-ABS-Airbag,2,54000 ,Petrol,Manual,2013,325000
+355,Hyundai,Fortuner,Sharp AT,2,53000 ,Diesel,Manual,2019,665000
+356,Toyota,Baleno,1.6 VTVT SX,2,60000 ,Diesel,Manual,1995,55000
+357,Maruti Suzuki,Fluidic Verna,1.6 VTVT SX,2,65000 ,Petrol,Manual,2016,275000
+358,Hyundai,Ecosport,1.4 E Plus,2,62000 ,Petrol,Manual,2010,230000
+359,Ford,Verna,VDI Optional,2,56000 ,Petrol,Manual,2016,340000
+360,Hyundai,Grand i10,2014-2015 i DTEC VX Option,1,10000 ,Diesel,Automatic,2015,475000
+361,Hyundai,Innova,1.4 GD,2,53000 ,Diesel,Manual,2011,229500
+362,Toyota,Eeco,2013-2016 EX i-Vtech,2,85000 ,Petrol,Automatic,2021,1950000
+363,Maruti Suzuki,5 Series,1.6 VTVT S,1,50188 ,Petrol,Manual,2011,335000
+364,BMW,Sail,Fluidic 1.6 CRDi SX Opt,1,57000 ,Petrol,Manual,2014,525000
+365,Chevrolet,Swift,Zeta,1,27000 ,Petrol,Manual,2017,890000
+366,Maruti Suzuki,Ecosport,VXI,2,60000 ,Petrol,Manual,2017,630000
+367,Ford,Koleos,Swift Dzire Tour,1,62000 ,Petrol,Manual,2014,525000
+368,Renault,Innova Crysta,i-VTEC CVT V,1,7000 ,Petrol,Manual,2014,335000
+369,Toyota,GLA Class,VDi,1,75000 ,Petrol,Manual,2014,325000
+370,Mercedes-Benz,Ritz,1.2 CRDi Magna,1,47000 ,Diesel,Manual,2011,349000
+371,Maruti Suzuki,Vitara Brezza,2009-2013 1.3 Emotion Pack (Diesel),1,36000 ,Diesel,Manual,2011,325000
+372,Maruti Suzuki,Figo,3.0L Portfolio,1,72000 ,Diesel,Manual,2019,761000
+373,Ford,Fiesta,C 220 CDI Sport Edition,1,53700 ,Diesel,Manual,2007,225000
+374,Ford,Amaze,35 TDI Premium + Sunroof,1,72000 ,Petrol,Manual,2018,575000
+375,Honda,Baleno,Titanium Plus 4X4,1,52000 ,Petrol,Automatic,2018,1079000
+376,Maruti Suzuki,Elite i20,350d 4MATIC,1,78000 ,Diesel,Manual,2018,810000
+377,Hyundai,Ambassador,GT 630d M Sport,2,95000 ,Petrol,Manual,2019,510000
+378,Hindustan Motors,Alto 800,1.4 Delta,1,24000 ,CNG & Hybrids,Manual,2014,275000
+379,Maruti Suzuki,Alto,250d,2,69500 ,Diesel,Automatic,2018,4800000
+380,Maruti Suzuki,Omni,Inscription Luxury,1,26000 ,Petrol,Automatic,2017,1650000
+381,Maruti Suzuki,Swift,3 Series GT 320d GT Luxury Line,1,6987 ,Diesel,Automatic,2018,1800000
+382,Maruti Suzuki,Wagon R 1.0,40 TDI Premium Plus,2,57000 ,Diesel,Automatic,2020,2600000
+383,Maruti Suzuki,Hector,1.5 Ti VCT MT Titanium BE,1,56000 ,Diesel,Automatic,2017,5000000
+384,MG,Fluidic Verna,XT,3,119000 ,Diesel,Automatic,2019,3800000
+385,Hyundai,Fluidic Verna,350 CDI,1,35000 ,Diesel,Manual,2020,1000000
+386,Hyundai,Creta,2003-2014 S,1,50000 ,Diesel,Automatic,2017,3500000
+387,Hyundai,Swift Dzire,Titanium Plus 4X4,1,30000 ,Diesel,Automatic,2015,2500000
+388,Maruti Suzuki,City,VXI Opt 1.2,1,7000 ,Diesel,Automatic,2019,2400000
+389,Honda,Etios Liva,5 STR With AC Plus HTR (CNG),1,35000 ,Diesel,Automatic,2019,3000000
+390,Toyota,Amaze,VXI,1,15000 ,Petrol,Manual,2015,641000
+391,Honda,Fluidic Verna,Asta Option,1,21000 ,Diesel,Manual,2014,153000
+392,Hyundai,Verna,2012-2015 Diesel LXI,1,20000 ,Diesel,Automatic,2016,2800000
+393,Hyundai,Baleno,2012-2014 H4 ABS,1,60000 ,Diesel,Automatic,2009,1500000
+394,Maruti Suzuki,Swift,Others,1,15000 ,Diesel,Automatic,2020,2600000
+395,Maruti Suzuki,Swift Dzire,SX Diesel,1,12000 ,CNG & Hybrids,Manual,2019,520000
+396,Maruti Suzuki,City,2010-2012 Diesel ZXI,1,55000 ,Petrol,Manual,2016,315000
+397,Honda,Santa Fe,E250 Edition E,1,39000 ,Diesel,Manual,2013,237000
+398,Hyundai,Vitara Brezza,Emotion (Diesel),2,42000 ,Petrol,Manual,2015,485000
